@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>org.scijava</groupId>
 		<artifactId>pom-scijava-base</artifactId>
-		<version>10.0.0</version>
+		<version>999</version>
 		<relativePath />
 	</parent>
 
 	<artifactId>pom-scijava</artifactId>
-	<version>29.0.0-SNAPSHOT</version>
+	<version>999</version>
 	<packaging>pom</packaging>
 
 	<name>SciJava Parent POM</name>
@@ -444,10 +444,10 @@
 		<imagej-notebook.version>0.7.1</imagej-notebook.version>
 
 		<!-- ImageJ-OMERO - https://github.com/imagej/imagej-omero -->
-		<imagej-omero.version>0.8.1</imagej-omero.version>
+		<imagej-omero.version>999</imagej-omero.version> <!-- TEMP -->
 
 		<!-- ImageJ-OMERO Legacy - https://github.com/imagej/imagej-omero-legacy -->
-		<imagej-omero-legacy.version>0.1.2</imagej-omero-legacy.version>
+		<imagej-omero-legacy.version>999</imagej-omero-legacy.version>
 
 		<!-- ImageJ OpenCV - https://github.com/imagej/imagej-opencv -->
 		<imagej-opencv.version>0.1.0</imagej-opencv.version>
